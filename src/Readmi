@@ -1,0 +1,3 @@
+when running the script, specify the input file (as the first parameter) and the output file (as the second parameter)
+for example:
+ $ java -jar Calculator-xml.jar /home/Downloads/java/data003.xml /home/Downloads/java/
